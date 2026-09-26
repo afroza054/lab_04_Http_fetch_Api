@@ -1,0 +1,31 @@
+body{
+    padding:1px 10px 15px;
+    background-image: url('Cyber security banner.png')
+}
+.navbar {
+    background-color: #312450; /*#5e42a6*/
+    color: white;
+    display: flex;
+    padding: 0 0.5rem;
+}
+
+.navbar-nav {
+    list-style: none;
+    display: flex;
+    align-items: center;
+}
+.navbar-nav li a {
+    padding: 0 0.5rem;
+    padding: 0.75rem 1rem;
+    text-decoration: none;
+    text-align: left;
+    color: white;
+    white-space: nowrap;
+}
+
+.container {
+    padding: 0 1.5rem;
+    margin: 0 auto;
+}
+
+
